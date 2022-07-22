@@ -1,1 +1,2 @@
-username: '张三'
+config:
+  info: "main branch,springcloud-config/config-dev.yml version=1"
